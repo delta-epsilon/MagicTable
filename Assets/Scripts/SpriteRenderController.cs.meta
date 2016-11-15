@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81e87976986a9274ab3fe24548091cd9
+timeCreated: 1479204661
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flag: {fileID: 21300000, guid: ab14593f0a3af754cb5a06f6147c9f69, type: 3}
+  - svaston: {fileID: 21300000, guid: f563d05c539237041acc9a4ad1c21d6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
